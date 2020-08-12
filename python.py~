@@ -3,8 +3,4 @@ if inp == 'yes':
     print('eat burger')
     print('ear pizza')
 else:
-    inpp = input('are you thirsty')
-    if inpp == 'yes':
-        print('plz drink water')
-
-    
+    print('thanx for you input')
